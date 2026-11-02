@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<p class="home-interests">{{ site.author.tagline }}</p>
+{% comment %} Shown on phones only, where the sidebar is hidden: the tagline from _config.yml, made into a sentence. {% endcomment %}
+{% assign tagline = site.author.tagline %}
+<p class="home-interests">I study {{ tagline | slice: 0 | downcase }}{{ tagline | slice: 1, tagline.size }}.</p>
 
 <p class="home-links">
 {% if site.author.email_user %}<a class="js-email" data-user="{{ site.author.email_user }}" data-domain="{{ site.author.email_domain }}">Email</a>{% else %}Email {% include verify.html %}{% endif %}
