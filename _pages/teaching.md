@@ -4,24 +4,25 @@ permalink: /teaching/
 author_profile: true
 ---
 
+I have taught physics at George Washington University as a teaching assistant since 2021, and in 2022 I received the Bennhold Family Award for best graduate-student teaching. I began with introductory calculus-based courses in mechanics and electromagnetism. Since 2023, every fall I teach PHYS 3127, a final-year undergraduate course on nonlinear dynamics that broadly follows Strogatz's *Nonlinear Dynamics and Chaos*.
+{: .page-intro}
+
 ## Courses
 
-- PHYS 3127, nonlinear dynamics (final-year undergraduate), every fall since 2023
+- PHYS 3127, Biophysics: Macroscopic (nonlinear dynamics), Falls 2023-2026
 - PHYS 1022, University Physics II (electromagnetism), Spring 2026
 - PHYS 1025, University Physics I for life sciences (mechanics), Spring 2022
 - PHYS 1026, University Physics II for life sciences (electromagnetism), Fall 2021
 
-I have taught physics at George Washington University as a teaching assistant since 2021, and in 2022 I received the Bennhold Family Award for best graduate-student teaching. I began with introductory calculus-based courses in mechanics and electromagnetism. The course I have taught most is PHYS 3127, a final-year undergraduate course on nonlinear dynamics that broadly follows Strogatz's *Nonlinear Dynamics and Chaos*.
-
 ## Teaching approach
 
-The introductory courses use the SCALE-UP format, in which students spend much of class working through problems in groups rather than listening to lectures. PHYS 3127 is taught more like a lecture course, but students also work through examples in groups during class. In both, I work alongside the instructor, moving among the groups, explaining concepts, and guiding their discussions.
+The introductory courses use the SCALE-UP format, in which students spend much of class working through problems in groups rather than listening to lectures. This format gives TAs a substantial instructional role: during group work, I teach alongside the instructor, explaining concepts, answering questions, and guiding discussions in essentially the same way. PHYS 3127 is more lecture-based, but students also work through examples in groups during class, where I play a similar role.
 
 Over these years I have taken on more of the teaching myself. In my first year I started running office hours as short tutorials, drawing on the Cambridge supervisions I experienced as a student: I go over the material students are unsure of, then set problems for them to work through and discuss. I also started going through each quiz in front of the class, so that common mistakes are dealt with before the course moves on. In PHYS 3127 I now run the quizzes from start to finish: I write the questions, grade the answers, and review them with the class.
 
 ## Student evaluations
 
-Ratings for "TA supported learning" (5-point scale) in each semester's student evaluations, with the physics department average.
+The table below presents ratings for "TA supported learning" (5-point scale), alongside the Physics Department average.
 
 | Semester | Course | Rating | Dept. avg. | Responses |
 |---|---|---:|---:|---:|
