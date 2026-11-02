@@ -16,7 +16,7 @@ I have taught physics at George Washington University as a teaching assistant si
 
 ## Teaching approach
 
-The introductory courses use the SCALE-UP format, in which students spend much of class working through problems in groups rather than listening to lectures. This format gives TAs a substantial instructional role: during group work, I teach alongside the instructor, explaining concepts, answering questions, and guiding discussions. PHYS 3127 is more lecture-based, but students also work through examples in groups during class, and there I teach in essentially the same way.
+The introductory courses use the SCALE-UP format, in which students spend much of class working through problems in groups rather than listening to lectures. This format gives TAs a substantial instructional role: during group work, I teach alongside the instructor, explaining concepts, answering questions, and guiding discussions in essentially the same way. PHYS 3127 is more lecture-based, but students also work through examples in groups during class, where I play a similar role.
 
 Over these years I have taken on more of the teaching myself. In my first year I started running office hours as short tutorials, drawing on the Cambridge supervisions I experienced as a student: I go over the material students are unsure of, then set problems for them to work through and discuss. I also started going through each quiz in front of the class, so that common mistakes are dealt with before the course moves on. In PHYS 3127 I now run the quizzes from start to finish: I write the questions, grade the answers, and review them with the class.
 
