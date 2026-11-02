@@ -135,6 +135,13 @@ function redrawPlotly() {
    ========================================================================== */
 
 $(document).ready(function () {
+  // Email links are assembled here so the full address never appears in the page source.
+  $("a.js-email").each(function () {
+    const address = this.dataset.user + "@" + this.dataset.domain;
+    this.href = "mailto:" + address;
+    $(this).find(".js-email__address").text(address);
+  });
+
   // SCSS SETTINGS - These should be the same as the settings in the relevant files
   const scssLarge = 925;          // pixels, from /_sass/_themes.scss
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
