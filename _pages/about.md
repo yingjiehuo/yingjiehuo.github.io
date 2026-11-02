@@ -10,7 +10,7 @@ redirect_from:
 <p class="home-interests">{{ site.author.tagline }}</p>
 
 <p class="home-links">
-{% if site.author.email %}<a href="mailto:{{ site.author.email }}">Email</a>{% else %}Email {% include verify.html %}{% endif %}
+{% if site.author.email_user %}<a class="js-email" data-user="{{ site.author.email_user }}" data-domain="{{ site.author.email_domain }}">Email</a>{% else %}Email {% include verify.html %}{% endif %}
 · <a href="{{ site.author.googlescholar }}">Google Scholar</a>
 · {% include cv-link.html label="CV" %}
 </p>
